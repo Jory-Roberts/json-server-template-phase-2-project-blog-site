@@ -1,58 +1,34 @@
 {
-  "toys": [
+  "posts": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Introduction to React",
+      "datetime": "June 19, 2023, 10:00 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Sed ullamcorper metus id justo vulputate, nec molestie neque malesuada. Proin vitae eros interdum, laoreet elit id, scelerisque enim."
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "JavaScript Best Practices",
+      "datetime": "June 19, 2023, 2:30 PM",
+      "body": "Pellentesque commodo tellus vel justo euismod, a interdum mi faucibus. Vestibulum hendrerit mauris id risus lobortis ullamcorper. Nam bibendum, velit sed rhoncus ultricies, urna enim commodo nulla, et eleifend nibh velit ut libero."
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "CSS Flexbox Guide",
+      "datetime": "June 19, 2023, 11:45 AM",
+      "body": "Fusce in tellus vitae purus luctus suscipit. Etiam vitae erat ac turpis lobortis aliquam ac vel elit. Nulla viverra libero ac urna malesuada, id convallis purus aliquet."
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "React Hooks: A Comprehensive Guide",
+      "datetime": "June 20, 2023, 9:30 AM",
+      "body": "Vestibulum scelerisque nisi ut posuere porta. Aenean luctus velit augue, at pulvinar quam sagittis eu. Duis non mi eu ligula vestibulum aliquet in vitae neque."
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    },
-    {
-      "id": 9,
-      "name": "Jessie",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 15
+      "title": "JavaScript Design Patterns for Better Code",
+      "datetime": "June 21, 2023, 3:15 PM",
+      "body": "Maecenas id elit ut quam posuere posuere. Fusce tincidunt, risus ut commodo tincidunt, purus lorem aliquet mi, nec pharetra ipsum neque non arcu."
     }
   ]
 }
