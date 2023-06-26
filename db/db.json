@@ -29,24 +29,6 @@
       "title": "JavaScript Design Patterns for Better Code",
       "datetime": "June 21, 2023, 3:15 PM",
       "body": "Maecenas id elit ut quam posuere posuere. Fusce tincidunt, risus ut commodo tincidunt, purus lorem aliquet mi, nec pharetra ipsum neque non arcu."
-    },
-    {
-      "title": "Blog Test 1",
-      "datetime": "June 22, 2023 1:54:14 PM",
-      "body": "Blog Test 1",
-      "id": 6
-    },
-    {
-      "title": "Blog Test 2",
-      "datetime": "June 22, 2023 2:23:28 PM",
-      "body": "Blog Test 2",
-      "id": 7
-    },
-    {
-      "title": "Blog Test 3",
-      "datetime": "June 22, 2023 2:56:11 PM",
-      "body": "Blog Test 3",
-      "id": 8
     }
   ]
 }
