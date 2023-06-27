@@ -1,22 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Introduction to React",
-      "datetime": "June 19, 2023, 10:00 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Sed ullamcorper metus id justo vulputate, nec molestie neque malesuada. Proin vitae eros interdum, laoreet elit id, scelerisque enim."
-    },
-    {
       "id": 2,
       "title": "JavaScript Best Practices",
       "datetime": "June 19, 2023, 2:30 PM",
       "body": "Pellentesque commodo tellus vel justo euismod, a interdum mi faucibus. Vestibulum hendrerit mauris id risus lobortis ullamcorper. Nam bibendum, velit sed rhoncus ultricies, urna enim commodo nulla, et eleifend nibh velit ut libero."
-    },
-    {
-      "id": 3,
-      "title": "CSS Flexbox Guide",
-      "datetime": "June 19, 2023, 11:45 AM",
-      "body": "Fusce in tellus vitae purus luctus suscipit. Etiam vitae erat ac turpis lobortis aliquam ac vel elit. Nulla viverra libero ac urna malesuada, id convallis purus aliquet."
     },
     {
       "id": 4,
@@ -29,12 +17,6 @@
       "title": "JavaScript Design Patterns for Better Code",
       "datetime": "June 21, 2023, 3:15 PM",
       "body": "Maecenas id elit ut quam posuere posuere. Fusce tincidunt, risus ut commodo tincidunt, purus lorem aliquet mi, nec pharetra ipsum neque non arcu."
-    },
-    {
-      "title": "New Blog Post",
-      "datetime": "June 26, 2023 5:41:22 PM",
-      "body": "New Blog Test...",
-      "id": 6
     }
   ]
 }
