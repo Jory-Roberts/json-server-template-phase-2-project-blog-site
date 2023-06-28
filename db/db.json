@@ -3,44 +3,32 @@
     {
       "id": 1,
       "title": "Introduction to React",
-      "datetime": "June 19, 2023, 10:00 AM",
+      "datetime": "June 19, 2023, 10:00:23 AM",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Sed ullamcorper metus id justo vulputate, nec molestie neque malesuada. Proin vitae eros interdum, laoreet elit id, scelerisque enim."
     },
     {
       "id": 2,
       "title": "JavaScript Best Practices",
-      "datetime": "June 19, 2023, 2:30 PM",
+      "datetime": "June 19, 2023, 2:30:34 PM",
       "body": "Pellentesque commodo tellus vel justo euismod, a interdum mi faucibus. Vestibulum hendrerit mauris id risus lobortis ullamcorper. Nam bibendum, velit sed rhoncus ultricies, urna enim commodo nulla, et eleifend nibh velit ut libero."
     },
     {
       "id": 3,
       "title": "CSS Flexbox Guide",
-      "datetime": "June 19, 2023, 11:45 AM",
+      "datetime": "June 19, 2023, 11:45:56 AM",
       "body": "Fusce in tellus vitae purus luctus suscipit. Etiam vitae erat ac turpis lobortis aliquam ac vel elit. Nulla viverra libero ac urna malesuada, id convallis purus aliquet."
     },
     {
       "id": 4,
       "title": "React Hooks: A Comprehensive Guide",
-      "datetime": "June 20, 2023, 9:30 AM",
+      "datetime": "June 20, 2023, 9:30:50 AM",
       "body": "Vestibulum scelerisque nisi ut posuere porta. Aenean luctus velit augue, at pulvinar quam sagittis eu. Duis non mi eu ligula vestibulum aliquet in vitae neque."
     },
     {
       "id": 5,
       "title": "JavaScript Design Patterns for Better Code",
-      "datetime": "June 21, 2023, 3:15 PM",
+      "datetime": "June 21, 2023, 3:15:57 PM",
       "body": "Maecenas id elit ut quam posuere posuere. Fusce tincidunt, risus ut commodo tincidunt, purus lorem aliquet mi, nec pharetra ipsum neque non arcu."
-    },
-    {
-      "title": "Blog Test 1",
-      "datetime": "June 27, 2023 10:38:57 AM",
-      "body": "Blog Test 1",
-      "id": 6
-    },
-    {
-      "title": "Blog Test 2",
-      "datetime": "June 27, 2023 10:39:26 AM",
-      "body": "Blog Test 2",
-      "id": 7
     }
   ]
 }
