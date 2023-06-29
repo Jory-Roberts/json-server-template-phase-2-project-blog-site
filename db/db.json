@@ -35,6 +35,12 @@
       "datetime": "June 28, 2023 1:19:08 PM",
       "body": "Welcome to my blog post about different blog type things. It's mostly a blog about React. Sometimes this blog contains content about JavaScript and CSS.",
       "id": 7
+    },
+    {
+      "title": "One More Blog Post",
+      "datetime": "June 29, 2023 9:57:08 AM",
+      "body": "Another blog post about React to add. This is another insightful blog about cool React things",
+      "id": 8
     }
   ]
 }
